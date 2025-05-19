@@ -3,7 +3,7 @@
 project_folder_name="wrf-proj"
 # check locker name:
 #cyclecloud locker list
-locker_name="GBB HPC-storage"
+locker_name="WRF-storage"
 
 echo "Uploading project $project_folder_name to locker $locker_name"
 
