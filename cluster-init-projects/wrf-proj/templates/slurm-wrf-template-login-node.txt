@@ -411,7 +411,7 @@ Order = 10
         ParameterType = Azure.Subnet
         Required = True
         #itv
-        DefaultValue = "/subscriptions/d452ff1d-4116-4a34-bb57-4908b5535dfc/resourceGroups/azusdstirg006/providers/Microsoft.Network/virtualNetworks/azusdstivnet005/subnets/snet-compute"
+        DefaultValue = "azusdstirg006/azusdstivnet005/snet-compute"
         #DefaultValue = "azusdsnetrg/azusdshpcvnet/azusdshpcsnet003"        
 
     [[parameters High Availability]]
